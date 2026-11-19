@@ -6,3 +6,4 @@ This is my first Github practic project.
 -GitHub
 ## About
 Learning Git commands and Github repository management.
+Iam practicing Git pull.
